@@ -6,6 +6,7 @@
 ![Cobalt Strike](https://img.shields.io/badge/Cobalt_Strike-1E90FF?style=for-the-badge&logo=hexagon&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Metasploit](https://img.shields.io/badge/Metasploit-FF6A00?style=for-the-badge&logo=data:image/png;base64,YOUR_CUSTOM_BASE64_ICON_HERE)
+
 ![Nmap](https://img.shields.io/badge/Nmap-FF6600?style=for-the-badge&logo=data:image/png;base64,YOUR_CUSTOM_BASE64_ICON_HERE)
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=portswigger&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
