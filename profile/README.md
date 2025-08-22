@@ -2,6 +2,7 @@
 
 ### Dev | Pentester | Security Researcher | Malware Analyst
 
+![](https://img.shields.io/badge/cursor-black?style=)
 ![Fuzzing](https://img.shields.io/badge/Fuzzing-AFL++-black?style=)
 ![](https://img.shields.io/badge/Cobalt_Strike-1E90FF)
 ![](https://img.shields.io/badge/Metasploit-FF6A00?style://img.shields.io/badge/Nmap-FF6600?style=for-the-badge)
