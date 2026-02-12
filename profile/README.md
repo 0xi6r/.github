@@ -1,8 +1,8 @@
-# Hello, I'm Isaac 👋
+# Hello,
 
-### Offensive Security Engineer | Developer | Researcher
+### Backend Dev | Offensive Security Research
 
-I build, break, and reverse-engineer software. My focus is on offensive security, malware analysis, and creating custom tools to automate complex tasks. I thrive at the intersection of development and security for fun and profit.
+I do Backend development, Reverse Engineering, and Red Teaming Ops.
 
 ---
 
@@ -13,7 +13,6 @@ I build, break, and reverse-engineer software. My focus is on offensive security
 <p align="left">
   <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash"/>
   <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell"/>
 </p>
 
@@ -30,13 +29,12 @@ I build, break, and reverse-engineer software. My focus is on offensive security
 
 <p align="left">
   <img src="https://img.shields.io/badge/IDA%20Pro-3D8F8F?style=for-the-badge" alt="IDA Pro"/>
-  <img src="https://img.shields.io/badge/Ghidra-000000?style=for-the-badge&logo=ghidra&logoColor=white" alt="Ghidra"/>
   <img src="https://img.shields.io/badge/AFL++-964B00?style=for-the-badge" alt="AFL++"/>
 </p>
 
 ---
 
-### 🎯 Core Competencies
+### 🎯 Expertise
 
 -   **Backend & C2 Development:** Building robust infrastructure and custom tooling, primarily in Rust.
 -   **Vulnerability Research:** Actively involved in bug bounty hunting and discovering new vulnerabilities.
