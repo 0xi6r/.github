@@ -1,4 +1,4 @@
-I do BackEnd Dev, Reverse Engineering, and Red Teaming Ops.
+I do **BackEnd Dev**, **Reverse Engineering**, and **Red Teaming Ops**.
 
 -  Accepting remote full-time or part-time work, reach out: [me](mailto:0xi6r@tutamail.com)
 -  Contact for collab, consultations, support, custom tool dev or code reviews:
