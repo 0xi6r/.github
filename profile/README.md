@@ -5,5 +5,6 @@ I do **BackEnd Dev**, **Reverse Engineering**, and **Red Teaming Ops**.
 
   [![TutaMail](https://img.shields.io/badge/tuta-tuta?color=red&logo=tuta)](mailto:0xi6r@tutamail.com)
   [![mastodon](https://img.shields.io/badge/mastodon-blue?color=white&logo=mastodon&logoColor=blue)](https://infosec.exchange/@0x_i6r)
+  [![telegram](https://img.shields.io/badge/telegram-telegram?color=white&logo=telegram&logoColor=black)](https://t.me/Oxi6r)
 
   ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=0xi6r&theme=github_dark)
