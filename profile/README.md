@@ -1,7 +1,8 @@
-I do **Pentest**, **Reverse Engineering**, and **Red Teaming Ops**.
+Security Researcher | Red Teamer | Penetration Tester | Reverse Engineer | Bug Bounty Hunter
 
--  Accepting remote full-time or part-time work, reach out: [me](mailto:0xi6r@tutamail.com)
--  Contact for collab, consultations, support, custom tool dev or code reviews:
+- 📍 Open to remote full‑time or part‑time work
+- 📧 Reach [me](mailto:0xi6r@tutamail.com)
+- 🤝 For collabs, consultations, support, or custom tool dev
 
   [![TutaMail](https://img.shields.io/badge/tuta-tuta?color=red&logo=tuta)](mailto:0xi6r@tutamail.com)
   [![mastodon](https://img.shields.io/badge/mastodon-blue?color=white&logo=mastodon&logoColor=blue)](https://infosec.exchange/@0x_i6r)
